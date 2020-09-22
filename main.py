@@ -82,4 +82,4 @@ async def on_voice_state_update(voicemember, before, after):
       
 
 keep_alive.keep_alive()
-client.run("NjI2MjE2MjkyNjM4MTMwMTg2.XYrCww.sFHKf7CNwfPi5pB0fnZyeI9HmBI")
+client.run("TOKEN")
